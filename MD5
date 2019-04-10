@@ -1,4 +1,4 @@
-5075ad55fd6b360ca021ddad52979dda *DESCRIPTION
+9e5d76a69f9718876257cec02223a4cf *DESCRIPTION
 7984e0772f9a635b88fa4b1494e48f00 *NAMESPACE
 7947a06ba8872db9f8218c906010f19c *R/apa.R
 11dc8ca5093cd7d0ea61f7aef36fb4ea *R/bn1-data.R
@@ -7,7 +7,7 @@
 fd80a7b0c28463682e7b2ff387be09dd *R/d.dep.t.avg.R
 6e956f7286787cd8f725ff3e472215df *R/d.dep.t.diff.R
 4c3d5f1ccb3460b1c9da63118c134c67 *R/d.dep.t.diff.t.R
-69a7043d70095095193f0ef8ef89e8dd *R/d.dep.t.rm.R
+e221b78a70ec5948fbb913b5eb6e011a *R/d.dep.t.rm.R
 565f2ca37fb3ac119fd47a062d49f80f *R/d.ind.t.R
 e0c2fa068807e49c008d7160ed52b5a4 *R/d.ind.t.t.R
 071e237ac8504e2665d0025ceca5e50d *R/d.prop.R
@@ -38,7 +38,7 @@ a5fa448deb3872a0fa14aff0866ee7e9 *R/rm1-data.R
 b8ebe1ea4cbb040509fe57cb15f710bb *R/rm2-data.R
 ac77cdf8334e96fcf28c9a18af95d760 *R/singt-data.R
 0def513d5d83b53a4cd431b4b85d2894 *R/v.chi.sq.R
-fb7febdeb9c8c05b8c4e90333069af30 *README.md
+0486e1d32a95bee8e85eb5b0fa4984a7 *README.md
 342f52dd639acd32d2a0307ac7b5b56c *data/bn1_data.RData
 95dd3fe33bad3d43cf4964739a2a5e51 *data/bn2_data.RData
 d92705ba4228f9adc6fbb663c66b6539 *data/chisq_data.RData
